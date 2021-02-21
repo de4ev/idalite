@@ -39,4 +39,18 @@
 [Документация RestAPI](https://front-test.idalite.com/api/docs)
  
 
+## Запуск проекта
+
+```bash
+# install dependencies
+$ npm install
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
 

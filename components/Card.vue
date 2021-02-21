@@ -93,12 +93,15 @@
         margin-top: 16px;
         font-size: 14px;
         line-height: 18px;
+        overflow: hidden;
 
         & .card-text {
             margin-bottom: 6px;
             font-size: inherit;
             color: var(--grey);
             font-weight: 400;
+            white-space:nowrap;
+            
         }
         & .card-price {
             color: var(--black);
